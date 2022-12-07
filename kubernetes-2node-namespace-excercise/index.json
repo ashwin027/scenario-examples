@@ -1,5 +1,5 @@
 {
-  "title": "Kubernetes 2node deployment verification",
+  "title": "Kubernetes 2node namespace verification",
   "description": "Uses a two node Kubernetes cluster and performs user input verification in all steps for deployments",
   "details": {
     "intro": {

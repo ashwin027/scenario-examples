@@ -1,3 +1,3 @@
 #!/bin/bash
 
-kubectl get test -n nginx
+kubectl get pod test -n nginx

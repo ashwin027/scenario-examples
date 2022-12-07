@@ -1,2 +1,2 @@
 
-Create a new namespace called nginx
+Create a new namespace called nginx. Testing
